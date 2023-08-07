@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Mon, 07 Aug 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://RUIFENGN.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    
+        <item>
+        <title>第一篇博客</title>
+        <link>https://RUIFENGN.github.io/wrt/first_post/</link>
+        <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://RUIFENGN.github.io/wrt/first_post/</guid>
+        <description>清辞 https://RUIFENGN.github.io/wrt/first_post/ -&lt;h1 id=&#34;第一篇博客&#34;&gt;第一篇博客&lt;/h1&gt;
+&lt;p&gt;略略略&lt;/p&gt;
+- https://RUIFENGN.github.io/wrt/first_post/ - This is a customized copyright.</description>
+        </item>
     
     
     
